@@ -30,7 +30,7 @@ namespace SpringfieldNuclearReactor
 
         private void titleLable_Click(object sender, EventArgs e)
         {
-
+           
         }
 
         private void startReactorButton_Click(object sender, EventArgs e)
